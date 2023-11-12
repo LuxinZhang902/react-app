@@ -21,3 +21,5 @@ npm i bootstrap@5.2.3
 ## Rendering List
 
 ## Conditional Rendering
+
+## Handling Events
