@@ -69,3 +69,5 @@ CMD + D : Multiple Selection
 ## Inspecting Components with React Dev Tools
 
 ## Building a button component
+
+## Showing an Alert
