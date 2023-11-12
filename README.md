@@ -33,3 +33,9 @@ npm i bootstrap@5.2.3
    when the state of a component changes, react will update the Dom to match the new component State
 
 3. Each component should has its own state
+
+## Passing Data via props
+
+1. Making the components reusable
+2. Props (Proterties): props are the inputs to our components
+3. Using interface
