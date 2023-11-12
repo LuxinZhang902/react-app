@@ -41,3 +41,23 @@ npm i bootstrap@5.2.3
 3. Using interface
 
 ## Passing function via props
+
+## State vs Props
+
+1. Props
+
+   - Input passed to a component
+   - Similar to function arge
+   - immutable (unchangable - read only)
+
+   - Cause a re-render
+
+2. State
+
+   - Data managed by a component
+   - Similar to locak variables
+   - mutable
+
+   - Cause a re-render
+
+## Passing children
