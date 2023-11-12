@@ -65,3 +65,7 @@ npm i bootstrap@5.2.3
 rafce: react arrow function component export
 
 CMD + D : Multiple Selection
+
+## Inspecting Components with React Dev Tools
+
+## Building a button component

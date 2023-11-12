@@ -1,4 +1,4 @@
-import Alert from "./components/Alert";
+import Button from "./components/Button";
 
 function App() {
   let items = ["New York", "San Franscisco", "Tokyo", "London", "Paris"]; //Static value: no need of using {} in heading part
@@ -8,9 +8,7 @@ function App() {
   };
   return (
     <div>
-      <Alert>
-        Hello <span>World</span>
-      </Alert>
+      <Button onClick={() => console.log("Click")}>My Cutest Button</Button>
     </div>
   );
 }
