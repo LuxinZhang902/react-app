@@ -39,3 +39,5 @@ npm i bootstrap@5.2.3
 1. Making the components reusable
 2. Props (Proterties): props are the inputs to our components
 3. Using interface
+
+## Passing function via props
