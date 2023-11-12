@@ -61,3 +61,7 @@ npm i bootstrap@5.2.3
    - Cause a re-render
 
 ## Passing children
+
+rafce: react arrow function component export
+
+CMD + D : Multiple Selection
